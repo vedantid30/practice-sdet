@@ -12,3 +12,6 @@ change: to fix bug2.
 
 change: WI3 for rebase.
 >>>>>>> 768f7fe (WI3:file1 updated with colon and newline for WI3)
+ change stash: half done work.
+
+change 6: for WI5 loacal master to test normal push.
