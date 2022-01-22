@@ -1,3 +1,5 @@
 Hello world...
 
-change added to fix bug1
+change added to fix bug1.
+
+change to fix bug2.
